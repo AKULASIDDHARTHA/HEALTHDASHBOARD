@@ -1,0 +1,44 @@
+form{
+    background-color: rgba(187, 209, 209, 0.521);
+    height: auto;
+    width: 500px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border:8px solid white;
+    margin:auto;
+    align-content: center;
+    line-height: 32px;
+    padding: 40px;
+}
+h1,h4{
+    text-align: center;
+    text-transform: uppercase;
+}
+input,label{
+    align-content: center;
+}
+button{
+    padding: 10px;
+    margin-left:150px;
+}
+nav{
+        background-color:rgb(195, 255, 171);
+}
+nav a{
+    color:black;
+    font-size:15px;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding:12px;
+}
+nav a:hover{
+    color:rgb(33, 32, 30);
+}
+body{
+    background-color: gray;
+
+}
+nav a:active{
+    color: red;
+}
+
+
